@@ -156,3 +156,6 @@ Any issues while translating? Feel free to participate in the [Localization disc
 ### Project
 
 You're very welcome to contribute to Pingvin Share! Please follow the [contribution guide](/CONTRIBUTING.md) to get started.
+
+
+https://pingvin-share.dev.eliasschneider.com/s/c1NDYwO
